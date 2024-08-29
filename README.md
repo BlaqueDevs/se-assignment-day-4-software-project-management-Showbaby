@@ -34,7 +34,13 @@ A Work Breakdown Structure (WBS) is a project management tool that involves brea
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+1. Improved Planning and Organization 2. Enhanced Time Management 3. Efficient Resource Allocation. Gantt charts help in tracking activities and milestones
+
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+n
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
