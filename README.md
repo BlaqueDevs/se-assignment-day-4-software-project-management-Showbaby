@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15642961&assignment_repo_type=AssignmentRepo)
  # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
@@ -15,8 +17,17 @@ The advantages of water fall are: i)clear structure and documentation ii) easy t
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+ Agile is particularly useful when project requirements are likely to change or evolve over time. This is common in industries like software development, where user feedback, market conditions, or technology trends often lead to new requirements.
+Agile allows for the project to be developed in small, manageable increments (sprints). Each sprint typically delivers a working product, allowing teams to adjust based on feedback and changing priorities.
 
+Waterfall is ideal when the project scope, goals, and requirements are well-defined from the start and unlikely to change significantly.
+Waterfall follows a linear approach, where each phase (e.g., requirements, design, development, testing) is completed before moving to the next. This is suitable for projects where a structured sequence is necessary.
 
+Mobile App Development: Companies like Facebook, Google, or Spotify frequently use Agile for their mobile apps.
+Web Platform Development: E-commerce websites like Amazon and Shopify use Agile to adapt to customer behavior and trends.
+
+Implementation of EHR (Electronic Health Record) Systems: Projects to implement EHR systems in hospitals often follow Waterfall, especially when strict regulatory compliance is involved. 
+Electronic Hardware Production: Similar to car manufacturing, hardware devices like mobile phones or computer components (e.g., Apple’s iPhone or Intel processors) go through strict sequential phases from design to production.
 
 
 
@@ -39,10 +50,14 @@ A Work Breakdown Structure (WBS) is a project management tool that involves brea
 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Interactive learning platform, digital laboratory and accessible instructional materials
 
-n
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+It helps to develop the scope of features to focus on. It also helps to eliminate distractions and waste of resources.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
